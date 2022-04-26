@@ -29,5 +29,6 @@ I currently perform my work role providing solutions to problems, applying knowl
   
 ### Badges
 <b>My GitHub Stats</b>
+<br>
 <a href="http://www.github.com/anitori"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anitori&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
                     
