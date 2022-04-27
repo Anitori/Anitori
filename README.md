@@ -6,7 +6,6 @@ I currently perform my work role providing solutions to problems, applying knowl
 *   🌍  I'm based in Argentina
 *   ✉️  You can contact me at [emanuelrodriguezanitori@gmail.com](mailto:emanuelrodriguezanitori@gmail.com)
 *   🧠  I'm learning Golang
-*   <b>
 
 <a href="https://www.twitter.com/emamza4" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/emamza4?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
