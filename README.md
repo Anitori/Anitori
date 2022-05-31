@@ -1,4 +1,4 @@
-Hi 👋 My name is Emanuel Rodriguez
+Hi 👋 My name is Emanuel
 ==================================
 
 I currently perform my work role providing solutions to problems, applying knowledge of programming, computing, networks and office automation. In parallel to this I am studying computer security. I would love to be part of a team that ensures the security of the data of people and companies, as well as raising awareness about it.
